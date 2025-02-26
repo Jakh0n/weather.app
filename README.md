@@ -2,7 +2,9 @@
 
 A responsive weather forecasting application built with Next.js using OpenWeatherMap API
 
-[![Live Demo]([https://img.shields.io/badge/demo-live-success)](https://your-vercel-app-url.vercel.app](https://get-weather-seven.vercel.app/))
+## 🚀 Live Demo
+Experience the app live:  
+[https://get-weather-seven.vercel.app/](https://get-weather-seven.vercel.app/)
 
 
 ![Weather App Screenshot](/screenshots/screenshot.png)
